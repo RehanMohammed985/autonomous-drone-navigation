@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project implements a state-of-the-art autonomous navigation system for small drones leveraging computer vision and reinforcement learning techniques. It enables drones to safely navigate complex, dynamic environments by combining:
+This project implements a  autonomous navigation system for small drones leveraging computer vision and reinforcement learning techniques. It enables drones to safely navigate complex, dynamic environments by combining:
 
 - Real-time obstacle detection via YOLO-based perception
 - Depth processing for spatial understanding
