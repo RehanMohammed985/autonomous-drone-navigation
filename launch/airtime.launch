@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="airsim_ros_pkgs" exec="airsim_ros_wrapper_node" name="airsim_ros_wrapper" output="screen">
+        <param name="use_sim_time" value="true"/>
+        <param name="vehicle_name" value="Drone1"/>
+    </node>
+</launch>
