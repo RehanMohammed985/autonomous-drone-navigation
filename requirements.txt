@@ -1,0 +1,9 @@
+torch>=1.12
+numpy
+opencv-python
+matplotlib
+stable-baselines3
+gym
+pyyaml
+ros2
+airsim
