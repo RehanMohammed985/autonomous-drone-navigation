@@ -1,0 +1,7 @@
+env_name: "AirSimDroneEnv-v0"  # Custom AirSim gym environment name
+num_envs: 4                    # Number of parallel envs for training
+learning_rate: 0.0003          # PPO learning rate
+n_steps: 2048                  # Number of steps per rollout
+batch_size: 64                 # Mini-batch size
+gamma: 0.99                   # Discount factor
+total_timesteps: 1000000       # Total training steps
